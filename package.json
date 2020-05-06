@@ -1,0 +1,19 @@
+{
+  "name": "crearis",
+  "version": "0.1.1",
+  "description": "vue.js-noCMS-framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crearis/crearis.js.git"
+  },
+  "author": "crearis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crearis/crearis.js/issues"
+  },
+  "homepage": "https://github.com/crearis/crearis.js#readme"
+}
