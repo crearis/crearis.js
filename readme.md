@@ -1,6 +1,6 @@
 Crearis.js
 ==========
-Website-starter to build a network of websites for 'creative events' that enable decentralized NGO-networking.
+Website-starter to build a network of websites. Each of those websites modelling a life-cycle of 'creative events' together they enable decentralized NGO-networking.
 
 
 Main focus on: drama-in-education / community theatre / playing arts and similar communities of creative work (music, activism, performance ...)
