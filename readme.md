@@ -1,6 +1,6 @@
 Crearis.js
 ==========
-Website-starter for web3-inspired websites to enable decentralized NGO-networking.
+Website-starter to build a network of websites for 'creative events' that enable decentralized NGO-networking.
 
 
 Main focus on: drama-in-education / community theatre / playing arts ... and similar types of creative-work-communities in the fields of: music, activism, performance ...
