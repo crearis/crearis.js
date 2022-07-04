@@ -3,7 +3,7 @@ Crearis.js
 Website-starter to build a network of websites. Each of those websites models a life-cycle of 'creative events'. A bunch of websites together enables for decentralized activity and networking of NGOs in the creative field - by gaining more visibility and impact.
 
 
-Main focus on: drama-in-education / community theatre / playing arts and similar communities of creative work (music, activism, performance ...)
+Main focus on: communities of creative work (music, activism, performance ...) for instance in the field of drama-in-education / community theatre / playing arts
 
 ### status: drafting
 - experimental work
