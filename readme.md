@@ -23,7 +23,14 @@ Q2 2023: Beta
 The project starts by creating a reference-implementation to connect about 15 organisations and freelancers in the field of 'Theaterpädagogik', mainly located in Bavaria/Germany.
 
 ### Vision and core technical idea
-In short Crearis wants to enable open-source-like cooperation in the fields of creative work: A network of distributed content, decentralized projects and events, connected both regionally (in-person-events) and thematically (virtual communities). Crearis helps the participants of the network to (re)build  their websites based on modern standards: It is coded in vue3-nuxt3. It implements web3-style-logic to surface distributed and decentralized content on multiple websites ('web3' mainly in the terms of decentralization, collective organization. Not as a reference to a certain blockchain-technology. Not as a reference to some sort of 'big money scheme').
+In short Crearis wants to enable open-source-like cooperation in the fields of creative work: A network of distributed content, decentralized projects and events, connected both regionally (in-person-events) and thematically (virtual communities). Crearis helps the participants of the network to (re)build  their websites based on modern standards:
+- coded in vue3-nuxt3
+
+
+- clients designed with tailwind (website-focussed) and vuetify (mobile-focussed)
+
+
+- implementing web3-style-logic to surface distributed and decentralized content on multiple websites ('web3' mainly in the terms of decentralization, collective organization. Not as a reference to a certain blockchain-technology. Not as a reference to some sort of 'big money scheme').
 
 ### technical idea
 At the core Crearis runs a markdown-processor which is able to integrate and render distributed sources within the user-browser. Each node of the network-of-websites renders a static version, which represents a localized view on the distributed data. This is for instance the home-page of an organisation, that is participating in the network and houses creative events and serves the data for those events. 
