@@ -3,11 +3,18 @@ Crearis.js
 Website-starter to build a network of websites for 'creative events' that enable decentralized NGO-networking.
 
 
-Main focus on: drama-in-education / community theatre / playing arts ... and similar types of creative-work-communities in the fields of: music, activism, performance ...
+Main focus on: drama-in-education / community theatre / playing arts and similar communities of creative work (music, activism, performance ...)
 
-### Status: drafting, experimental work, developer-relations
+### status: drafting
+- experimental work
 
-### Roadmap
+
+- rebuilding core from vue2/nuxt2-project
+
+
+- developer-relations
+
+### roadmap
 - Oct 2022: Proof-of-Concept
 
 
