@@ -8,21 +8,18 @@ Main focus on: drama-in-education / community theatre / playing arts ... and sim
 ### Status: drafting, experimental work, developer-relations
 
 ### Roadmap
-Oct 2022: Proof-of-Concept
+- Oct 2022: Proof-of-Concept
 
 
-Jan 2023: Alpha
+- Jan 2023: Alpha + Preview (~10 connected website-projects running the code)
 
 
-Q2 2023: Beta
+- Q2 2023: Beta
 
 
-~Q4 2023: RC > Production
+- ~Q4 2023: RC > Production
 
-### Preview expected by dec 2022!!
-The project starts by creating a reference-implementation to connect about 15 organisations and freelancers in the field of 'Theaterpädagogik', mainly located in Bavaria/Germany.
-
-### Vision and core technical idea
+### vision
 In short Crearis wants to enable open-source-like cooperation in the fields of creative work: A network of distributed content, decentralized projects and events, connected both regionally (in-person-events) and thematically (virtual communities). Crearis helps the participants of the network to (re)build  their websites based on modern standards:
 - coded in vue3-nuxt3
 
@@ -43,15 +40,18 @@ At the core Crearis runs a markdown-processor which is able to integrate and ren
 
 
 
-### Technical foundation
+### technical foundation
 Crearis leverages the nuxt/content-module and some additional logic from projects like .:
 - schema.org
+
+
+- userbase.com
 
 
 - other resources drawing on remark/rehype (like: stripe/markdoc > variables, functions? ...)
 
 
-### Background
+### background
 This is an opinionated project. We start from Europe:
 - focus on privacy (non-tracking ..)
 
@@ -66,6 +66,9 @@ This is an opinionated project. We start from Europe:
 
 
 - target questions like ‘liquid democracy’ and ‘participation’
+
+
+The initial project will serve as reference-implementation and should be reachable ~nov 2022 at theaterpedia.org. It connects about 15 organisations and freelancers in the field of 'Theaterpädagogik', mainly located in Bavaria/Germany.
 
 
 ### Licence: MIT
