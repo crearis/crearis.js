@@ -31,7 +31,7 @@ In short Crearis wants to enable open-source-like cooperation in the fields of c
 - coded in vue3-nuxt3
 
 
-- clients designed with tailwind (desktop-focussed) and vuetify (mobile-focussed)
+- clients designed with tailwind (desktop-focussed) / konstaUI (tailwind) or vuetify (mobile-focussed)
 
 
 - implementing web3-style-logic to surface distributed and decentralized content on multiple websites ('web3' mainly in the terms of decentralization, collective organization. Not as a reference to a certain blockchain-technology. Not as a reference to some sort of 'big money scheme').
